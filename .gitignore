@@ -1,0 +1,19 @@
+# Ignore large binary files
+*.mp4
+*.zip
+*.tar.gz
+*.iso
+*.dmg
+*.img
+*.csv
+*.txt
+*.pickle
+test
+valid
+train
+triplets
+*.pyc
+.dyna
+.geo
+.rel
+.html
